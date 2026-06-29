@@ -75,6 +75,8 @@
   <img src="https://img.shields.io/badge/Linux/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+---
+
 <h1 align="center">Contact Me</h1>
 
 <p align="center">
